@@ -19,6 +19,16 @@ fun main(args:Array<String>){
 
 
 
+//    fun Main(){
+        val a =10
+        val b = 20
+    val c = a+b
+        val res = "sum of $a and $b is: $c"
+        println(res)
 
+
+
+//val letter :Char = 'A'
+//print($letter)
 
 }
