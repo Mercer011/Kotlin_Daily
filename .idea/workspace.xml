@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="159316cb-2eb9-4279-aba6-161ddc0b7aba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day3/2dArrays.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day3/Arrays.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day3/TypeConversion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day3/Casting.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DAY2/Array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DAY2/Array.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/DAY2/CharDataType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DAY2/CharDataType.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/DAY2/String.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DAY2/String.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/String.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1724176992043</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="second commit">
+      <created>1724228292484</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724228292484</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
