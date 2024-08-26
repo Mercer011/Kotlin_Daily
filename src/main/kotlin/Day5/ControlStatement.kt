@@ -27,6 +27,8 @@ fun main() {
     if (score >= 90) {
         println("A")
     } else if (score >= 85) {
+        //we can use ... to as score in (13...19){}
+
         println("B")
     } else if (score >= 70) {
         println("C")
