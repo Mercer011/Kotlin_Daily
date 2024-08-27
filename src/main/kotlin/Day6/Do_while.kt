@@ -1,10 +1,10 @@
 package Day6
 
 fun main() {
-    var i = 5
+    var i = 1
     do {
         println("value is : $i")
-                i--
+                i++
     }
-    while(i>0)
+    while(i<6)
 }
