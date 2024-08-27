@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="159316cb-2eb9-4279-aba6-161ddc0b7aba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DAY2/CharDataType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DAY2/CharDataType.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DAY2/String.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DAY2/String.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Day3/Casting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Day3/Casting.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Day5/ControlStatement.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Day5/ControlStatement.kt" afterDir="false" />
+    <list default="true" id="159316cb-2eb9-4279-aba6-161ddc0b7aba" name="Changes" comment="Day 5&#10;&#10;When Statement">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day5/ShiftOperators.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day6/Do_while.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day6/ForLoops.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1724660745387</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Day 5&#10;&#10;When Statement">
+      <created>1724683638872</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724683638872</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
