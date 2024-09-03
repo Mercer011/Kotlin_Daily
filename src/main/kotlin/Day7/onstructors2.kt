@@ -1,5 +1,6 @@
 package Day7
 
+
 class Constructors{
     var name: String
     var age: Int
@@ -26,4 +27,5 @@ fun main(){
     b.intro()
     var c=Constructors("Dumbbb")
     c.intro()
+//    Constructors("Mujju",20)
 }
