@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="159316cb-2eb9-4279-aba6-161ddc0b7aba" name="Changes" comment="Day 7&#10;&#10;git setup steps">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day8/Inheritance.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Day7/onstructors2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Day7/onstructors2.kt" afterDir="false" />
-    </list>
+    <list default="true" id="159316cb-2eb9-4279-aba6-161ddc0b7aba" name="Changes" comment="Day 8&#10;&#10;git setup steps" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725265588784</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Day 8&#10;&#10;git setup steps">
+      <option name="closed" value="true" />
+      <created>1725351509065</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725351509065</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,6 +216,7 @@
     <MESSAGE value="Day 6&#10;&#10;When Statement" />
     <MESSAGE value="Day 7&#10;&#10;&#10;testing" />
     <MESSAGE value="Day 7&#10;&#10;git setup steps" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 7&#10;&#10;git setup steps" />
+    <MESSAGE value="Day 8&#10;&#10;git setup steps" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 8&#10;&#10;git setup steps" />
   </component>
 </project>
